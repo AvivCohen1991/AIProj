@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# Big resources
+*-ubyte
+
+# Build
+*.iobj
+*.ipdb
+*.tlog
+*.tlog*
+*.idb
